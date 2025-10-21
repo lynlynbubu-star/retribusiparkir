@@ -1,4 +1,4 @@
-%%writefile app.py
+%%writefile retribusi.py
 # ======================================================
 # Aplikasi AI Dummy - Prediksi Potensi Retribusi Parkir
 # Kota Cilegon
